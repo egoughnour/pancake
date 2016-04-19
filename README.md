@@ -1,2 +1,2 @@
 # pancake
-A jekyll theme
+Theme demo to follow shortly.
